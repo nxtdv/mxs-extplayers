@@ -1,0 +1,14 @@
+{
+  "name": "mxs-extplayers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^22.8.5",
+    "typescript": "^5.5.3"
+  },
+  "private": true
+}
